@@ -1,2 +1,0 @@
-# Bots
-Tamame Türkçe Botlar
